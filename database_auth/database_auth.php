@@ -3,6 +3,6 @@
         'localhost', //host
         'root', //username
         '##########', //password
-        '## database_name ##' //database name
+        '## database name ##' //database name
     );
 ?>
